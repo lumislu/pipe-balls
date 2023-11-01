@@ -59,7 +59,7 @@ function App() {
       </footer>
       <div className="bg" ref={(el) => show.current.push(el)}>
         <div className="image">
-          <img src="./images/img.png" />
+          <img src="/img.png" alt="png" />
           <a href="https://prod.spline.design/yUUccaAGSIZvv4Sd/scene.splinecode"></a>
         </div>
       </div>
